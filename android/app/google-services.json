@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866142285823",
+    "firebase_url": "https://fedexmobile-84caa.firebaseio.com",
+    "project_id": "fedexmobile-84caa",
+    "storage_bucket": "fedexmobile-84caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866142285823:android:911e26dbb5d9234d2081ca",
+        "android_client_info": {
+          "package_name": "com.sbp.fedexmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866142285823-eibcromrm5rrfg9r1jq0054qtmoct1ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sbp.fedexmobile",
+            "certificate_hash": "8ac31d1826bb0342d7fdb9370dfa8e8a8d09b93b"
+          }
+        },
+        {
+          "client_id": "866142285823-p7tigprq7g28c8r6u7vhkfn02530a32s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6_PWjAdhdcsIUxCAVFFgStw60zE9WzYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866142285823-p7tigprq7g28c8r6u7vhkfn02530a32s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

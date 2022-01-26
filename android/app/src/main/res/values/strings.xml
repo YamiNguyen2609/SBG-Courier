@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SBG Driver</string>
+<!--    <string moduleConfig="true" name="CodePushDeploymentKey">PLaiK4lYkk2XMi1CrmEJM3uuIlpmcd-NB6ZgF</string>-->
+    <string moduleConfig="true" name="CodePushDeploymentKey">pUbwbo3FLbGSozhIr_BmT7ubd9iX-varFz19x</string>
+</resources>
